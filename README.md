@@ -11,7 +11,7 @@
 	- README.md
 	- LICENSE
 	- Build.zip
-	- screenshot Android
+	- screenshot & screenshot-2 Android
 
 - Versions:
 	- GVR Unity SDK: **v1.70.0**
